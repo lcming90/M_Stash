@@ -1,0 +1,136 @@
+# Bybit 主域名及核心服务
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit.org
+DOMAIN-SUFFIX,bybit.net
+DOMAIN-SUFFIX,bybithk.com
+DOMAIN-SUFFIX,bybitapi.com
+
+# API & 交易服务
+DOMAIN-SUFFIX,bybitstatic.com
+DOMAIN-SUFFIX,bybitcdn.com
+DOMAIN-SUFFIX,bybitex.com
+DOMAIN-SUFFIX,bybitimg.com
+
+# Web3/区块链生态
+DOMAIN-SUFFIX,bybitweb3.com
+DOMAIN-SUFFIX,bybitwallet.com
+DOMAIN-SUFFIX,bybitlabs.com
+
+# CDN & 静态资源
+DOMAIN-SUFFIX,bybit-res.com
+DOMAIN-SUFFIX,bybitfiles.com
+DOMAIN-SUFFIX,bybitcloud.com
+
+# 备用/区域域名
+DOMAIN-SUFFIX,bybit.co
+DOMAIN-SUFFIX,bybit.me
+DOMAIN-SUFFIX,bybit.ink
+DOMAIN-SUFFIX,bybit.pro
+DOMAIN-SUFFIX,bybit.plus
+DOMAIN-SUFFIX,monitor-frontend-collector.a.bybit-aws.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
+
+# Binance 主域名及子服务
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.im
+DOMAIN-SUFFIX,binance.net
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancezh.com
+DOMAIN-SUFFIX,binancezh.cc
+DOMAIN-SUFFIX,binancezh.co
+DOMAIN-SUFFIX,binancezh.info
+DOMAIN-SUFFIX,binancezh.link
+DOMAIN-SUFFIX,binancezh.live
+DOMAIN-SUFFIX,binancezh.net
+DOMAIN-SUFFIX,binancezh.top
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+# 第三方服务 & CDN
+DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.co
+DOMAIN-SUFFIX,saasexch.io
+DOMAIN-SUFFIX,yingwangtech.cloud
+DOMAIN-SUFFIX,yingwangtech.net
+DOMAIN-SUFFIX,yingwangtech.mobi
+DOMAIN-SUFFIX,yingwangtech.club
+DOMAIN-SUFFIX,yingwangtech.cc
+DOMAIN-SUFFIX,forter.com
+DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,myqcloud.com
+
+# OKX 主域名及核心服务
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx.com.cn
+DOMAIN-SUFFIX,okexcn.com
+DOMAIN-SUFFIX,oklink.com
+DOMAIN-SUFFIX,okxweb3.com
+DOMAIN-SUFFIX,okg.com
+# API & 交易服务
+DOMAIN-SUFFIX,okexapi.com
+DOMAIN-SUFFIX,okexcdn.com
+DOMAIN-SUFFIX,okexv5.com
+DOMAIN-SUFFIX,okex-res.com
+DOMAIN-SUFFIX,okex-sdk.com
+# Web3/区块链生态
+DOMAIN-SUFFIX,okc.network
+DOMAIN-SUFFIX,okxwallet.com
+DOMAIN-SUFFIX,okxventures.com
+# CDN & 静态资源
+DOMAIN-SUFFIX,okexstatic.com
+DOMAIN-SUFFIX,okeximg.com
+DOMAIN-SUFFIX,okexcloud.com
+DOMAIN-SUFFIX,okexsupport.com
+# 备用/区域域名
+DOMAIN-SUFFIX,okex.co
+DOMAIN-SUFFIX,okex.me
+DOMAIN-SUFFIX,okex.ink
+DOMAIN-SUFFIX,okex.pro
+DOMAIN-SUFFIX,okex.plus
+
+
+#兜底
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,debank.com
+DOMAIN-SUFFIX,zks.org
+DOMAIN-SUFFIX,zks.app
+DOMAIN-SUFFIX,zkswap.info
+DOMAIN-SUFFIX,loopring.org
+DOMAIN-SUFFIX,loopring.io
+DOMAIN-SUFFIX,loopring.network
+DOMAIN-SUFFIX,ipdata.co
+DOMAIN-SUFFIX,api.loopring.network
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,token.im
+DOMAIN-SUFFIX,tongke.top
+DOMAIN-SUFFIX,tongke.co
+DOMAIN-SUFFIX,tokenlon.im
+DOMAIN-SUFFIX,onekey-asset.com
+DOMAIN-SUFFIX,onekey.so
+DOMAIN-SUFFIX,qkl123.com
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,feixiaohao.co
+DOMAIN-SUFFIX,feixiaoquan.com
+DOMAIN-SUFFIX,fxhapp.com
+DOMAIN-SUFFIX,kucoin.com
