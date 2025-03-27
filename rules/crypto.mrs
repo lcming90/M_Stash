@@ -1,5 +1,4 @@
 payload:
-  # 去重后的主域名列表（仅匹配完整域名）
   - bybit.com
   - bybitglobal.com
   - bybit.org
